@@ -3,8 +3,9 @@ Sudoku Solver using python
 
 INPUT FORMAT (input.txt) is converted to Matrix Format with help of numpy library,
 Input is then feeded to SudokuSolver as a 9x9 grid,
-The functions isValid and Solve are responsible for solving sudoku
-The sudoku is olved using backtracking algorithm in TC - O(9x(NxN))
+Functions isValid and Solve are responsible for solving sudoku
+
+The sudoku is solved using backtracking algorithm in TC - O(9x(NxN))
 
 below are the pitures of terminal -> 
 
